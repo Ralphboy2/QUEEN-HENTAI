@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94767939688', 'Dinuwa Official²⁰²³', true],
-  ['94767939688', 'Dinuwa Official²⁰²³', true], 
+  ['92347041784362, 'Mr ralphboy ²⁰²³', true],
+  ['92348109273709', 'Ralphboy²⁰²³', true], 
   [''] 
 ] //Number of owners
 
@@ -47,7 +47,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '💝 Queen Hentai 💝'
+global.botname = '💝 Ralph hackers 💝'
 global.premium = 'true'
 global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
 global.author = '💝 Dinuwa Official²⁰²³ 💝' 
